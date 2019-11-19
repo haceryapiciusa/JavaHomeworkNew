@@ -7,6 +7,9 @@ public class Homework {
 //    b) -32768 to 32767
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
+    // Answer is b.
+    short s1 = Short.MAX_VALUE;
+    short s2 = Short.MIN_VALUE;
 //
 //
 //
