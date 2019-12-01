@@ -24,11 +24,6 @@ public class IfElseStatementHomework0 {
         RunItInTheMethod();
     }
 
-    public static String SomeMethod() {
-        String a = "6";
-        return a;
-    }
-
     private static void RunItInTheMethod() {
         Scanner scan = new Scanner(System.in);
         System.out.println("please type in your quiz score");

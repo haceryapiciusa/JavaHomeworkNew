@@ -1,6 +1,6 @@
 package day11.homework;
 
-public class HomeworkIfElseSwitch {
+//public class HomeworkIfElseSwitch {
     // highlight ctrl + /
 //    public static void main(String[] args) {
 //        int x = 10;
@@ -18,7 +18,7 @@ public class HomeworkIfElseSwitch {
 //            System.out.println("BYE");
 //        }
 //    }
-////Options:
+////Options:Compile error
 ////1. HELLO TECHNO
 ////2. Compile time error
 ////3. Runtime Error
@@ -38,7 +38,7 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////Options:
+////Options:Compile error
 ////1. HELLO TECHNO
 ////WELCOME
 ////2. HELLO TECHNO
@@ -56,13 +56,12 @@ public class HomeworkIfElseSwitch {
 //        }
 //    }
 //    }
-////Options:
+////Options:Compile error
 ////1. 10
 ////2. BYE
 ////3. NO output
 ////4. Compile time error
-//
-//    public class Test {
+//class Test {
 //        public static void main(String[] args)
 //        {
 //            int x = 10, y = 20;
@@ -78,7 +77,7 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////Output:
+////Output:Compile error
 ////1. HELLO TECHNO
 ////2. Compile time error
 ////3. WELCOME
@@ -91,12 +90,12 @@ public class HomeworkIfElseSwitch {
 //                ;
 //        }
 //    }
-////Options:
+////Options:Compile error
 ////1. No Output
 ////2. Compile time error
 ////3. Runtime error
 ////4. Runtime Exception
-//    class Test {
+//class Test {
     //Mac command + slash
     //pc ctrl + /
 //        public static void main(String[] args)
@@ -114,15 +113,15 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////Options:
+////Options: Today is fun day
 ////1. Compile time error
 ////2. Lets work
 ////3. Run- time error
 ////4. Today is fun day
 //
-//    public class MainClass {
-
-    //        enum day { MON,
+//     class MainClass {
+//
+//            enum day { MON,
 //            SAT,
 //            SUN }
 //
@@ -142,7 +141,7 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////Options:
+////Options:Lets have fun!
 ////1. No Output
 ////2. Syntax error
 ////3. Lets have fun!
@@ -157,14 +156,14 @@ public class HomeworkIfElseSwitch {
 //        }
 //    }
 //    }
-////Options:
+////Options: Compile error
 ////1. TECHNO
 ////2. Compile time error
 ////3. No Output
 ////4. Run-time error
 //
 //    class MainClass {
-//        public static void main3(String[] args)
+//        public static void main (String[] args)
 //        {
 //            int x = 10;
 //            int y = 20;
@@ -178,7 +177,7 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////Options:
+////Options:HELLO
 ////1. HELLO
 ////2. No Output
 ////3. TECHNO
@@ -198,7 +197,7 @@ public class HomeworkIfElseSwitch {
 //        }
 //    }
 //    }
-////Options:
+////Options:HELLO
 ////1. TECHNO
 ////2. Compile time error
 ////3. HELLO
@@ -220,7 +219,7 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////Output:
+////Output:TECHNO
 ////1. Compile time error
 ////2. TECHNO
 ////3. HELLO
@@ -265,9 +264,9 @@ public class HomeworkIfElseSwitch {
 //            }
 //        }
 //    }
-////    Options:
+////    Options: TechnoStudy
 ////1. Compile time error
 ////2. GFG
 ////3. No Output
 ////4. TechnoStudy
-}
+

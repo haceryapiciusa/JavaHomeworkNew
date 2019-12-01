@@ -19,6 +19,9 @@ public class Homework {
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
 //    View Answer
+    //Answer is a.
+    byte aByte = Byte.MAX_VALUE;
+    byte bByte = Byte.MIN_VALUE;
 //
 //
 //
@@ -48,23 +51,30 @@ public class Homework {
 //    b) 24
 //    c) 32
 //    d) 33
+    //Answer is c.
+public static void main1(String args[])
+        {
+            int g = 3;
+            System.out.print(++g * 8);
+        }
 //
 //
 //    What is the output of this program?
 //
 //    class area {
-//        public static void main(String args[])
-//        {
-//            double r, pi, a;
-//            r = 9.8;
-//            pi = 3.14;
-//            a = pi * r * r;
-//            System.out.println(a);
-//        }
+        public static void main2(String args[])
+        {
+            double r, pi, a;
+            r = 9.8;
+            pi = 3.14;
+            a = pi * r * r;
+            System.out.println(a);
+        }
 //    }
 //    a) 301.5656
 //    b) 301
 //    c) 301.56
 //    d) 301.56560000
+    //Answer is a.
 
 }

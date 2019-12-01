@@ -9,10 +9,6 @@ public class SwitchStatementHomework2 {
 //Input 5
 //    Output:
 //    Friday is Weekday
-
-    public static void SomeMethod(int myArgument) {
-
-    }
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
@@ -45,8 +41,6 @@ public class SwitchStatementHomework2 {
             case 7:
                 System.out.println("Sunday is a weekend");
                 break;
-
-
 
         }
     }

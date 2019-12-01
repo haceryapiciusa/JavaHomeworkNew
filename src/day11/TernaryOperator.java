@@ -1,14 +1,21 @@
 package day11;
 
+import java.util.Scanner;
+
 public class TernaryOperator {
-
-    //what is the output here
+    //find out min number between two inputs, use user input and ternary operator
+//    int val1 = 10;
+//    int val2 = 20;
+//
+//    int min =
+//    output
+//    10
     public static void main(String[] args) {
-        int a = 2;
-        int b = 5;
+        System.out.println("Provide two number");
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
 
-        // here the question mark means if
-        // : symbol means else
         int min = (a <= b) ? a : b;
 
         if (a <= b) {

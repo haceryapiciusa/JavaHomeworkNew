@@ -16,7 +16,7 @@ public class HomeworkPackages {
 //(C) Only 4
 //(D) Only 1 and 3
 
-//    Answer:
+//    Answer: A
 
 //Which of the following is/are advantages of packages?
 //(A) Packages avoid name clashes
@@ -24,5 +24,5 @@ public class HomeworkPackages {
 //(C) We can have hidden classes that are used by the packages, but not visible outside.
 //(D) All of the above
 
-//    Answer:
+//    Answer:B
 }

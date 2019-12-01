@@ -35,21 +35,8 @@ public class SwitchStatementHomework4 {
             default:
                 System.out.println("invalid");
         }
-
     }
-
-
 }
 
-class IfICreateAnotherClass{
-
-}
-
-enum Sizes {
-    S,
-    M,
-    L,
-    XL
-}
 
 
