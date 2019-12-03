@@ -16,7 +16,6 @@ public class Homework2 {
     public static void main(String[] args) {
         int[] arr = {10, 1, 1, 1, 7, 4, 5, 2, 2};
 
-        // part1
         boolean arrayHasOne = false;
         boolean arrayHasTwo = false;
         boolean arrayHasOneAndTwo = false;

@@ -28,7 +28,7 @@ class WordCount {
             System.out.println("number of words in the string: " + wordCount(str) + " word(s)");
     }
 
-    public static void mainSena(String[] args) {
+    public static void main1(String[] args) {
         String sentence = "The quick brown fox jumps over the lazy dog";
         System.out.println(sentence);
 

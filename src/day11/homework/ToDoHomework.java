@@ -3,7 +3,7 @@ package day11.homework;
 import java.util.Scanner;
 
 public class ToDoHomework {
-    //TODO Task
+    // Task
     // 1. Write program that gets two inputs from user then prints sum
     // 2. Write simple calculator,
     //     a. reads first input
@@ -29,10 +29,6 @@ public class ToDoHomework {
 
         double divide  = (double)number/(double)second;
         System.out.println("divide is : " +  divide);
-
-
-
-
 
     }
 }

@@ -3,14 +3,14 @@ package day13.homework;
 public class LoopQuestions {
 
 //    Which of these jump statements can skip processing remainder of code in its body for a particular iteration?
-//    a) break
+//    a) break *** Answer
 //    b) return
 //    c) exit
 //    d) continue
 //
 //    What is the output of this program?
 //
-//    class comma_operator {
+//static class comma_operator {
 //        public static void main(String args[])
 //        {
 //            int sum = 0;
@@ -20,13 +20,13 @@ public class LoopQuestions {
 //        }
 //    }
 //    a) 5
-//    b) 6
+//    b) 6 ***Answer
 //    c) 14
 //    d) compilation error
 //
 //    What is the output of this program?
 //
-//    class jump_statments {
+//static class jump_statments {
 //        public static void main(String args[])
 //        {
 //            int x = 2;
@@ -43,19 +43,18 @@ public class LoopQuestions {
 //    }
 //    a) 1 3 5 7
 //    b) 2 4 6 8
-//    c) 1 3 5 7 9
+//    c) 1 3 5 7 9 ***Answer
 //    d) 1 2 3 4 5 6 7 8 9
 //
 //
 //    What is the output of this program?
 //
-//    class Output {
+//static class Output {
 //        public static void main(String args[])
 //        {
 //            final int a=10,b=20;
 //            while(a<b)
 //            {
-//
 //                System.out.println("Hello");
 //            }
 //            System.out.println("World");
@@ -65,7 +64,7 @@ public class LoopQuestions {
 //    a) Hello
 //    b) run time error
 //    c) Hello world
-//    d) compile time error
+//    d) compile time error ***Answer
 //
 //
 

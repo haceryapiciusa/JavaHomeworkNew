@@ -1,4 +1,4 @@
-package day32.homework;
+package day32.homework.HW2;
 
 public class HW2 {
     // create class Food
