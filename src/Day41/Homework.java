@@ -13,7 +13,7 @@ package Day41;
         //Class Y Members
     }
 
-   // class Z extends X, Y
+   // class Z implements X, Y
     {
         //Class Z Members
     }*/
