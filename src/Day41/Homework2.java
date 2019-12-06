@@ -5,9 +5,10 @@ import java.awt.*;
 public class Homework2 {
     //
 //Which two classes use the Shape class correctly?
+
 //
 //A.
-// public class Circle implements Shape
+// public class Circle extend Shape
 //   {
 //    private int radius;
 //   }
@@ -46,9 +47,9 @@ public class Homework2 {
 //      /* code here */
 //     }
 //   }
-//a) B,E
+//a) B,E***Answer
 //b) A,C
-//c) C,E ***Answer
+//c) C,E
 //d) T,H
 //
 //What will be the output of the following Java program?

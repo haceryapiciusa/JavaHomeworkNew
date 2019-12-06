@@ -176,7 +176,7 @@ package Day41;
             C c = new C();
         }
     }
-    */
+    */ //compiler goes static first
 //Answer is :
 //Class A Constructor
 //Class B Constructor
@@ -211,20 +211,27 @@ package Day41;
 //Answer is : Class Y
     //*********************************************************************************************
    // What will be the output of the following Java program?
+ class TestClass {
+    public static void main(String[] args) {
+             Y y = new Y ();
+         }
+     }
 
-    class X
-    {
-        public X(int i)
-        {
-            System.out.println(1);
-        }
+class X {
+    public X(int i) {
+        System.out.println ( 1 );
     }
 
-    class Y extends X {
-        public  Y(int i){
-            super(i);
-            System.out.println(2);
-        }
+    public X() {
+        System.out.println ( 1 );
+    }
+}
+
+class Y extends X {
+    public Y() {
+        super();
+        System.out.println(2);
     }
 
+}
 
