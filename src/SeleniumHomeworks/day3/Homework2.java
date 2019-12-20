@@ -1,4 +1,4 @@
-package SeleniumHomework.day3;
+package SeleniumHomeworks.day3;
 // https://www.seleniumeasy.com/test/basic-checkbox-demo.html
 // Check the Multiple Checkbox and check the button message
 // When you check all the checkboxes, button message will change to 'Uncheck All'
